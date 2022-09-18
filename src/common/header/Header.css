@@ -6,6 +6,12 @@
     padding-right: 32px;
     padding-left: 16px;
 }
+.upcoming-mvs-header{
+    background-color: #ff9999;
+    padding: 8px;
+    font-size: 1rem;
+    text-align: center;
+}
 .svg-image{
     background-color: #ff7f7f;
     height: 35px;
